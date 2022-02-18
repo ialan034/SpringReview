@@ -1,0 +1,2 @@
+To reach component files from different packages
+@ComponentScan(basePackages = "com.other")
